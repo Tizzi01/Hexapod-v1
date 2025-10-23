@@ -12,3 +12,7 @@ It's Day 1 of Blueprint for me, and I’ve been following some YouTube tutorials
 
   
 
+## 10/22/2025 - Learning Onshape  
+
+Day 2 of Blueprint. Today I imported a 3D model of an open source hexapod (yt: @MakeYourPet) and tried to remake the parts and assemble them. Everything went horribly wrong. I still have a lot to learn about Onshape, and this 3D model is going to take way longer than I expected. Tmr I might take a break from CAD and do some research on the electronics. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--426b7632d65d899d35ab735de5f51bfb80c6a1dc/image.png)  
+
