@@ -22,3 +22,8 @@ Day 3 of Blueprint. Today i did a little bit of cad (like 10 mins) but i mainly 
 
   
 
+## 10/25/2025 - Making a spreadsheet for the parts   
+
+Its Day 4 of Blueprint. I decided to use a raspberry pi for my hexapod and picked out some of the parts I need to build my hexapod. Im comparing the prices between amazon, aliexpress, alibaba and some other sites for each componets. The servos are stupidly expensive not sure how im going to pull this off but I might be able to get them for cheaper if I buy in bulk since my friend is also making a hexapod and we can use the same servos. I decided to use a 7.4 vold lipo battery to power my servos and I will prob use a diff battery to power the rasbery pie. And I have a sg90 servo which I will use to turn my camera left and right. I might add a speaker and a mic to my hexapod too. And the jumper wires i have might to be thick enough so I might have to get new wires for this project. tmr ill do some research on how I can build my turrent and pick out the parts for that. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--121d6c59533929202a0addb091979020dc0f441b/image.png)
+  
+
