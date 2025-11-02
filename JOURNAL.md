@@ -37,3 +37,10 @@ Its day 5 of Blueprint. Today wasnt a productive day, as I only worked for about
 Its Day 6 of blueprint. The 3d model is not working out for me. I was able to get 3 of the legs set up on Onshape. I have to flip them so It fits on the left side, I DONT KNOW WHATS WRONG, IT JUST WONT FLIP. I TRIED TO MIRROR THE PARTS FOR 30 MINUTES AND ITS JUST NOT WORKING. Im done with the 3d model. I will just focus on the parts list and wiring and ship my project for the grant. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8532a492158f8f5b70cdbe5825d919b9a1d60a35/image.png)
   
 
+## 11/2/2025 - Parts List + Wiring Draft   
+
+Its day 7 of blueprint. Im done with my wiring and the parts list. There isnt much to write down, I just picked out all the parts and did the wiring by drawing lines over pngs of the components. There is a sale happening in aliexpress which will end on nov 8 so hopefully I get the grant by then. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkwMywicHVyIjoiYmxvYl9pZCJ9fQ==--c047050665cca3a1ed09c3e8a413fa46d2890e44/image.png) 
+![Final Wiring for hexapod](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b07beb1079c55180415d877e7e99881fce7b141/Final%20Wiring%20for%20hexapod.png)
+
+  
+
