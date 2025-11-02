@@ -32,3 +32,8 @@ Its Day 4 of Blueprint. I decided to use a raspberry pi for my hexapod and picke
 Its day 5 of Blueprint. Today wasnt a productive day, as I only worked for about 2 hours and I wasnt even able to assemble one of the legs for my hexapod on onshape. My brain has been blanking and I seem to have forgotten a lot of the stuff I learned in onshape I barely have half a leg done. But I was able to do some research for the turret. Im planing on getting a small gel blaster, ripping out its insides and then making a custom 3d printed shell so I can mount it on my hexapod. I might also add a lazer cause it looks cool. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4f5294de402eeb2d427ac0e7828f630352a5019/image.png)
   
 
+## 11/1/2025 - Tried to assemble the parts on Onshape  
+
+Its Day 6 of blueprint. The 3d model is not working out for me. I was able to get 3 of the legs set up on Onshape. I have to flip them so It fits on the left side, I DONT KNOW WHATS WRONG, IT JUST WONT FLIP. I TRIED TO MIRROR THE PARTS FOR 30 MINUTES AND ITS JUST NOT WORKING. Im done with the 3d model. I will just focus on the parts list and wiring and ship my project for the grant. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8532a492158f8f5b70cdbe5825d919b9a1d60a35/image.png)
+  
+
