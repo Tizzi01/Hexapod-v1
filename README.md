@@ -7,4 +7,24 @@ Im taking the 3d model for the hexapod from an open sourced project by @MakeYour
 
 Im not using a custom PCB for this project. I have a rough wiring diagram though: <img width="1920" height="1080" alt="Final Wiring for hexapod" src="https://github.com/user-attachments/assets/02d9bc55-4f6e-4de0-8ca1-58850187e2ae" />
 
-And here is my BOM: https://docs.google.com/spreadsheets/d/1QqpDV4mF5TNlVFBX8wkorOzyv_0cyz_nEEIMEz1E2uM/edit?usp=sharing 
+And here is my BOM: https://docs.google.com/spreadsheets/d/1QqpDV4mF5TNlVFBX8wkorOzyv_0cyz_nEEIMEz1E2uM/edit?usp=sharing  
+| Name | Amount | Link | Price (CAD, Discount ends Nov 8) |
+|------|-------:|------|--------------------------------:|
+| DS3235 35KG Servos | 21 | [AliExpress](https://www.aliexpress.com/item/1005007556657180.html) | 483 |
+| Ultrasonic Sensor HCSR04 | 6 | [AliExpress](https://www.aliexpress.com/item/1005005467178145.html) | 10 |
+| 2S 5000mAh 50C XT60 Lipo Battery | 1 | [AliExpress](https://www.aliexpress.com/item/4000389770504.html) | 29 |
+| Pololu Mini Maestro 24-Channel USB Servo Controller | 1 | [CanadaRobotix](https://www.canadarobotix.com/products/104?variant=14423512711217) | 71 |
+| Waveshare IMX219 Camera Module | 1 | [Amazon](https://www.amazon.ca/Waveshare-IMX219-Camera-Official-Raspberry/dp/B07H2D4WYR) | 22 |
+| 200cm Portable Mini USB Mic | 1 | [AliExpress](https://www.aliexpress.com/item/1005005732034743.html) | 3 |
+| Mini Portable Travel Loud Speaker | 1 | [AliExpress](https://www.aliexpress.com/item/1005007091728840.html) | 2 |
+| Logitech G F310s | 1 | [Logitech](https://www.logitechg.com/en-ca/shop/p/f310-gamepad) | 30 |
+| HTRC iMAX B6 80W Battery Charger | 1 | [AliExpress](https://www.aliexpress.com/item/32814573731.html) | 27 |
+| 9-DOF Absolute Orientation IMU | 1 | [AliExpress](https://www.aliexpress.com/item/1005006770124726.html) | 10 |
+| Gel Blaster | 1 | [AliExpress](https://www.aliexpress.com/item/1005006560659642.html) | 18 |
+| XT60 Inline Fuse | 1 | [AliExpress](https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006982312712:12000038933774573) | 7 |
+| 30A 12V 24V Battery Main Switch | 1 | [AliExpress](https://www.aliexpress.com/item/1005002306337951.html) | 2 |
+
+**Total:** 714 CAD  
+**Grant Coverage:** 400 USD ≈ 560 CAD  
+**Personal Contribution:** 154 CAD
+
