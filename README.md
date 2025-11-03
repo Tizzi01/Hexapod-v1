@@ -9,6 +9,7 @@ Im not using a custom PCB for this project. I have a rough wiring diagram though
 
 And here is my BOM: https://docs.google.com/spreadsheets/d/1QqpDV4mF5TNlVFBX8wkorOzyv_0cyz_nEEIMEz1E2uM/edit?usp=sharing  
 
+**Important Note:** There are only 10 DS3235 35KG servos left on Temu. I checked other suppliers: AliExpress only has 1 left or limits purchase to 1, Amazon is too expensive, and Alibaba charges a $76 shipping fee. I will start working with the 10 servos I have, and continue the project as more servos become available on Temu.
 
 | Name | Amount | Links | Price per unit (CAD) | Total Price (CAD) |
 |------|--------|-------|--------------------|-----------------|
